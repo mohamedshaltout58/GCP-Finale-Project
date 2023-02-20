@@ -1,4 +1,4 @@
-# GCP TASK
+# GCP (Google Cloud Platform) TASK
 ## Create 
 ### 1. VPC 
 ### 2. two subnets (management subnet & restricted subnet):
